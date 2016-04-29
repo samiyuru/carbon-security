@@ -33,9 +33,9 @@
     <name>WSO2 Carbon Security CAAS - Parent</name>
 
     <scm>
-        <url>https://github.com/wso2/carbon-security.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/carbon-security.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/carbon-security.git</connection>
+        <url>https://github.com/samiyuru/carbon-security.git</url>
+        <developerConnection>scm:git:https://github.com/samiyuru/carbon-security.git</developerConnection>
+        <connection>scm:git:https://github.com/samiyuru/carbon-security.git</connection>
         <tag>HEAD</tag>
     </scm>
 
